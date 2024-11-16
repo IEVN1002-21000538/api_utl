@@ -5,7 +5,7 @@ class DevelopmentConfig():
     MYSQL_USER='root'
     MYSQL_PASSWORD=''
     # MYSQL_DB='api_utl'
-    MYSQL_DB='api_utl'
+    MYSQL_DB='pizzeria'
     # ssl_disabled=True
 
 config={
